@@ -1,0 +1,14 @@
+@font-face {
+	font-family: hardPixel;
+	src: url(../fonts/Hardpixel.OTF);
+}
+
+* {
+	font-family: hardPixel;
+}
+
+.page-logo {
+	height: 40px;
+	width: 70px;
+	float: left;
+}
